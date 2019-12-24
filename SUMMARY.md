@@ -2,7 +2,7 @@
 
 * [前言](README.md)
 * [第一章 Unix_Linux编程手册](Chapter1/Unix_Linux编程手册.md)
-    * [第1节：](Chapter1.1/衣.md)
+    * [第1节：](Chapter1/衣.md)
     * [第2节：基本概念](Chapter1/基本概念.md)
     * [第3节：住](Chapter1/住.md)
     * [第4节：行](Chapter1/行.md)
