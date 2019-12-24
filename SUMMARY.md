@@ -20,7 +20,7 @@
         * [安装部署](Chapter4/安装部署.md)
     * [Promethus](Chapter4/Promethus)
         * [告警](Chapter4/告警.md)
-    * [特咧](Chater4/特例)
+    * [特例](Chapter4/特例)
         * [定制化告警](Chapter4/定制化告警)
 * [第五章 MAC](Chapter5/Mac.md)
     * [zsh](Chapter5/zsh.md)
