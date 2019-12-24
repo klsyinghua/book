@@ -21,7 +21,7 @@
     * [Promethus](Chapter4/Promethus)
         * [告警](Chapter4/告警.md)
     * [特例](Chapter4/特例)
-        * [定制化告警](Chapter4/定制化告警)
+        * [定制化告警](Chapter4/定制化告警.md)
 * [第五章 MAC](Chapter5/Mac.md)
     * [zsh](Chapter5/zsh.md)
     * [gitbook](Chapter5/gitbook.md)
