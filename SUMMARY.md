@@ -1,9 +1,9 @@
 # Summary
 
 * [前言](README.md)
-* [第一章](Chapter1/README.md)
+* [第一章 Unix_Linux编程手册](Chapter1/Unix_Linux编程手册.md)
     * [第1节：](Chapter1/衣.md)
-    * [第2节：食](Chapter1/食.md)
+    * [第2节：基本概念](Chapter1/基本概念.md)
     * [第3节：住](Chapter1/住.md)
     * [第4节：行](Chapter1/行.md)
 * [第二章](Chapter2/README.md)
@@ -21,4 +21,5 @@
     * [zsh](Chapter5/zsh.md)
     * [gitbook](Chapter5/gitbook.md)
         * [安装](Chapter5/安装.md)
+* [参数书籍](Chapter6/参考书籍.md)
 
