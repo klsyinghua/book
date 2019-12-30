@@ -21,7 +21,7 @@ $ sudo npm install n -g
 3. 安装gitbook-cli
 
 ```bash
- $ sudo npm install -g gitbook-cli
+ $ sudo npm install -g gitbook-clsudo npm install -g gitbook-clii
 ```
 
 4. 检查版本
